@@ -1,0 +1,3 @@
+#Fetching the specfic character by using the index number and starts from 0,1,2,3,.... and we have negative index also starts from -1,-2,-3,....
+a=[1,2,3,4,5,6,True,"string"]
+print(a[6])
